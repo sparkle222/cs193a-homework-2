@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string-array name="pokemons">
+        <item>charmander</item>
+        <item>zapados</item>
+        <item>pikachu</item>
+    </string-array>
+</resources>
